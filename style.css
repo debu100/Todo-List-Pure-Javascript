@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+input {
+  border: 4px solid #333;
+}
+
+.margin {
+  margin: 14px 7px;
+}
+
+/* .done,
+.delete {
+  display: none;
+  margin-top: 30px;
+}
+
+.display {
+  display: inline-block;
+  text-align: center;
+  margin-left: 10px;
+} */
